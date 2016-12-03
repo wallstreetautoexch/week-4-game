@@ -1,0 +1,150 @@
+#logo {
+	width: 350px;
+	height: 90px;
+	background-color: blue;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 10px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+
+
+}
+
+
+/*#headerId {*/
+
+    /*font-family: 'Georgia' Times, TimesNewRoman, Serif;*/
+    /*color: white ;	*/
+/*} */
+
+h1,h2,h3 p {
+	         margin-bottom: 20px;
+}
+
+
+h1,h2,h3 {
+	       font-family: 'Georgia' Times, TimesNewRoman, Serif;
+}
+
+
+h1 {
+	font-size: 35px;
+/*	line-height: 49px;
+	border-bottom: 3px;*/
+	/*padding-bottom: 20px;*/
+}
+
+h2,h3 {
+	   font-size: 22px;
+}
+
+p {
+	font-size: 15px;
+	color: brown;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+
+}
+
+#rulesBox {
+
+	width: 500px;
+	height:500px;
+	background: yellow;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 20px;
+	color: brown;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none
+
+}
+
+#displayResults {
+
+	display: inline;
+}
+
+#numberToGuessBox {
+
+	width: 300px;
+	height: 200px;
+	background-color: Green;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 10px;
+	color: black;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+	
+}
+
+h3,#Wins,#Losses {
+
+	font-size: 40px;
+	color: blue;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+}
+
+#gameResultsBox {
+
+	width: 150px;
+	height:200px;
+	background-color: purple;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: blue;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;
+
+}
+
+.carImage {
+
+	padding-right: 10px;
+}
+
+#totalScoreTextBox {
+
+    width: 300px;
+	height: 50px;
+	background-color: red;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;	
+}
+
+#totalScoreBox {
+
+	width: 300px;
+	height: 200px;
+	background-color: red;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+	text-align: left;
+	line-height: 2px;
+	color: white;
+	font-weight: 700;
+	font-size: 0px;
+	text-decoration: none;	
+
+}
+
+#totalScoreNumber {
+
+	font-size: 75px;
+	color: white;
+	font-family: 'georgia'; Times. TimesNewRoman. Serif;
+}
+
+
+          
